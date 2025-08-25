@@ -41,7 +41,7 @@
     "dompurify": "3.0.8",
     "echarts": "5.4.3",
     "flexsearch": "0.7.31",
-    "nomnoml": "1.6.2",
+    "nomnoml": "1.7.0",
     "safe-buffer": "5.2.1",
     "stream": "0.0.2",
     "tslog": "4.8.2",
